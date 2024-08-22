@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Cristielen Cardoso
 
-Eu sou apaixonada por tecnologia e estou constantemente buscando expandir meu conhecimento nesta área. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e também  Segurança da Informação. Minha jornada profissional é impulsionada pela vontade de aprender mais e mais, além do meu desejo de contribuir para um mundo digital mais seguro e eficiente.
+Sou uma profissional de tecnologia e estou constantemente buscando expandir meu conhecimento nesta área. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) e também  Segurança da Informação. Minha jornada profissional é impulsionada pela vontade de aprender mais e mais, além do meu desejo de contribuir para um mundo digital mais seguro e eficiente.
 
 
 
